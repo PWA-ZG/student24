@@ -1,0 +1,12 @@
+{
+  "name": "peti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
